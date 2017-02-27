@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivitySwitcher</string>
+    <string name="title_activity_first">First Activity!</string>
+</resources>
